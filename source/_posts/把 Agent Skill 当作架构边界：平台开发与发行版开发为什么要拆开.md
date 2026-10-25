@@ -83,4 +83,4 @@ skills/
 
 如果工作只发生在一个产品仓库，且没有跨仓发布或受控凭据边界，暂时不必为了形式拆 Skill。真正需要关注的是：Agent 是否会因为错误的上下文和依赖方向，做出无法被交付证据支撑的结论。
 
-> 本文使用 [writting-skill](https://github.com/zisheng-ai/writting-skill) 辅助写作。项目已开源，欢迎在 GitHub 点个 Star。
+> 本文使用 [writting-skill](https://github.com/youngjunning/writting-skill) 辅助写作。项目已开源，欢迎在 GitHub 点个 Star。

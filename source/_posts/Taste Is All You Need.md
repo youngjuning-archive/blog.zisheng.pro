@@ -168,7 +168,7 @@ Taste 走到最后一层，才不再依赖某一次聊天的运气，而成为�
 
 ![从景观母题到跨端设计系统](/images/taste-is-all-you-need-skill.webp)
 
-我后来把 Owlet、专业 Agent 工作台、Design Language Atlas 和相关 Landing Page 里的实践重新扫描了一遍，抽取出公开的 [Qingshan Lake Design Skill](https://github.com/zisheng-ai/qingshan-lake-design)。它覆盖 macOS、iPhone/iPad、Android、React Native、Web dashboard 和 Landing Page。
+我后来把 Owlet、专业 Agent 工作台、Design Language Atlas 和相关 Landing Page 里的实践重新扫描了一遍，抽取出公开的 [Qingshan Lake Design Skill](https://github.com/youngjunning/qingshan-lake-design)。它覆盖 macOS、iPhone/iPad、Android、React Native、Web dashboard 和 Landing Page。
 
 这次抽取没有把同一套界面复制到六个平台。共享的是一套 semantic vocabulary：canvas、surface、text、primary action、focus、success、warning、error，以及明确的 anti-pattern；各平台仍然遵守自己的交互模型和验收方式：
 
@@ -190,8 +190,8 @@ Qingshan Lake Design Skill 里除了 token，还有布局顺序、材质策略�
 | 环节 | 项目 | 解决的问题 |
 | --- | --- | --- |
 | Reference | [Design Language Atlas](https://design.zisheng.pro/) | 建立可搜索、可比较的设计语言与真实界面参考，回答“有哪些可能，为什么这个方向适合当前产品” |
-| Constraint | [Qingshan Lake Design Skill](https://github.com/zisheng-ai/qingshan-lake-design) | 把景观母题蒸馏成 semantic tokens、组件规则、跨端适配和 anti-pattern，回答“怎样持续做对” |
-| Production | [better-imagegen](https://github.com/zisheng-ai/better-imagegen) | 按资产类型选择模型与工作流，完成 prompt 约束、模型级联、后处理、metadata 和 QA，回答“怎样稳定交付可用资产” |
+| Constraint | [Qingshan Lake Design Skill](https://github.com/youngjunning/qingshan-lake-design) | 把景观母题蒸馏成 semantic tokens、组件规则、跨端适配和 anti-pattern，回答“怎样持续做对” |
+| Production | [better-imagegen](https://github.com/youngjunning/better-imagegen) | 按资产类型选择模型与工作流，完成 prompt 约束、模型级联、后处理、metadata 和 QA，回答“怎样稳定交付可用资产” |
 
 Design Language Atlas 不是换皮网站。除了设计语言索引和可运行 Demo，它还在继续补 UI Reference、Design Systems、组件、模板和社区 UI Skills。它的价值不是替我选风格，而是把零散收藏变成可以搜索、对照和拆解的 Reference 系统。
 
@@ -279,14 +279,14 @@ AI 会让更多人拥有更强的执行力，却不会自动替任何人承担�
 
 当“做出来”不再是唯一瓶颈，**选择做什么、删掉什么、坚持什么，就是作品本身。**
 
-> 本文由 [writting-skill](https://github.com/zisheng-ai/writting-skill) 辅助生成，文章观点、项目事实与最终判断由作者确认。
+> 本文由 [writting-skill](https://github.com/youngjunning/writting-skill) 辅助生成，文章观点、项目事实与最终判断由作者确认。
 
 ---
 
 ## 延伸阅读与项目
 
-- [Qingshan Lake Design Skill](https://github.com/zisheng-ai/qingshan-lake-design)
-- [better-imagegen：通用多模型 AI 生图 Skill](https://github.com/zisheng-ai/better-imagegen)
+- [Qingshan Lake Design Skill](https://github.com/youngjunning/qingshan-lake-design)
+- [better-imagegen：通用多模型 AI 生图 Skill](https://github.com/youngjunning/better-imagegen)
 - [我用 Claude Code + Codex vibe 了一个 macOS App：Owlet](https://blog.zisheng.pro/posts/8a33f17a26ad/)
 - [青山湖设计风格的诞生记](https://blog.zisheng.pro/posts/8b52f4a0fd65/)
 - [让云雾动起来：聊天界面的分层氛围动画](https://blog.zisheng.pro/posts/5633e84c7f72/)

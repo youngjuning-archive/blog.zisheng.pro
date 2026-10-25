@@ -257,4 +257,4 @@ AI 生成了多少代码，只能说明工具参与度。知识底座更应该�
 
 - [Andrej Karpathy：LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 
-> 本文使用 [writting-skill](https://github.com/zisheng-ai/writting-skill) 辅助写作，配图使用 [better-imagegen](https://github.com/zisheng-ai/better-imagegen) 生成。项目已开源，欢迎在 GitHub 点个 Star。
+> 本文使用 [writting-skill](https://github.com/youngjunning/writting-skill) 辅助写作，配图使用 [better-imagegen](https://github.com/youngjunning/better-imagegen) 生成。项目已开源，欢迎在 GitHub 点个 Star。

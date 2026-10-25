@@ -18,7 +18,7 @@ cover: /images/better-imagegen-engineering-practice.webp
 
 一开始我以为问题只是“怎么写出更好的 Prompt”。做得越多，我越确定：**Prompt 只是视觉交付链路里的一小段**。真正费判断的是选什么工作流、怎样约束输出、如何处理透明通道、怎么保证角色一致、如何把一张图交付成前端和客户端能直接使用的资产。
 
-这也是我持续完善 [better-imagegen](https://github.com/zisheng-ai/better-imagegen) 的原因。它不是收藏 Prompt 的目录，而是一个面向 Agent 的视觉生成 skill：输入目标和交付类型，输出可以进入工程的图片、帧序列、元数据和平台产物。
+这也是我持续完善 [better-imagegen](https://github.com/youngjunning/better-imagegen) 的原因。它不是收藏 Prompt 的目录，而是一个面向 Agent 的视觉生成 skill：输入目标和交付类型，输出可以进入工程的图片、帧序列、元数据和平台产物。
 
 ## 一句话总结
 
