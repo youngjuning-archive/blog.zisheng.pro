@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">2027—2029：三年成长路径</title>
+  <desc id="desc">2027 聚焦 Engineering Depth，2028 聚焦 Product Ownership，2029 聚焦 Technical Impact。</desc>
+  <rect width="1600" height="900" fill="#f8fafc"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans CJK SC', 'PingFang SC', sans-serif" fill="#1c293b">
+    <text x="72" y="86" font-size="26" font-weight="700" fill="#527daf">03  THREE-YEAR ROADMAP</text>
+    <text x="72" y="172" font-size="60" font-weight="700">2027—2029：三年成长路径</text>
+    <text x="72" y="222" font-size="28" fill="#687d92">三种能力并行积累，每年侧重不同：技术深度、产品实践、专业影响力</text>
+    <path d="M72 248H1528" stroke="#d8e2ec" stroke-width="2"/>
+    <rect x="80" y="320" width="440" height="410" rx="32" fill="#eaf2fb"/>
+    <rect x="580" y="320" width="440" height="410" rx="32" fill="#e8f6ef"/>
+    <rect x="1080" y="320" width="440" height="410" rx="32" fill="#f3edfa"/>
+    <text x="116" y="408" font-size="58" font-weight="700" fill="#5c8fc7">2027</text>
+    <text x="616" y="408" font-size="58" font-weight="700" fill="#43a484">2028</text>
+    <text x="1116" y="408" font-size="58" font-weight="700" fill="#9876c6">2029</text>
+    <text x="116" y="465" font-size="30" font-weight="700">Engineering Depth</text>
+    <text x="616" y="465" font-size="30" font-weight="700">Product Ownership</text>
+    <text x="1116" y="465" font-size="30" font-weight="700">Technical Impact</text>
+    <text x="116" y="516" font-size="30" font-weight="700">向技术深处走</text>
+    <text x="616" y="516" font-size="30" font-weight="700">向真实用户走</text>
+    <text x="1116" y="516" font-size="30" font-weight="700">向更大影响力走</text>
+    <path d="M116 540H484" stroke="#5c8fc7" stroke-width="3"/>
+    <path d="M616 540H984" stroke="#43a484" stroke-width="3"/>
+    <path d="M1116 540H1484" stroke="#9876c6" stroke-width="3"/>
+    <g font-size="25">
+      <text x="116" y="598">• 系统工程与架构</text>
+      <text x="116" y="643">• Agent Runtime</text>
+      <text x="116" y="688">• Computer Use 与评测</text>
+      <text x="616" y="598">• Product Discovery</text>
+      <text x="616" y="643">• 产品原型与独立验证</text>
+      <text x="616" y="688">• 上线、指标与迭代</text>
+      <text x="1116" y="598">• 复杂系统技术决策</text>
+      <text x="1116" y="643">• 跨项目的可复用能力</text>
+      <text x="1116" y="688">• Staff 级工程影响力</text>
+    </g>
+    <rect x="180" y="780" width="1240" height="78" rx="20" fill="#eaf0f6"/>
+    <text x="800" y="828" text-anchor="middle" font-size="26">终点是独立判断问题、构建系统，并创造可验证的产品价值</text>
+  </g>
+</svg>
