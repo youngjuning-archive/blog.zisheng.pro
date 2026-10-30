@@ -229,6 +229,6 @@ Windows 文件属性页能证明目标字段可见，却不能证明其他 secti
 3. [resedit-js](https://github.com/jet2jet/resedit-js)
 4. [Bun：Single-file executable](https://bun.sh/docs/bundler/executables)
 
-> 出品人：俊宁（Aaron），阿里高级工程师、AI 开发者，拥有 10 年研发经验，现专注 AI 应用、Agent、AI Infra 与软件工程，FlyOS 作者。
+> 出品人：俊宁，阿里高级工程师、AI 开发者，拥有 10 年研发经验，现专注 AI 应用、Agent、AI Infra 与软件工程，FlyOS 作者。
 
 > 本文使用 [writting-skill](https://github.com/zisheng-ai/writting-skill) 辅助写作，配图使用 [better-imagegen](https://github.com/zisheng-ai/better-imagegen) 生成。项目已开源，欢迎在 GitHub 点个 Star。
